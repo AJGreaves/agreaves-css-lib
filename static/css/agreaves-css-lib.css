@@ -5,4 +5,46 @@
 /* fonts */
 @import url("https://fonts.googleapis.com/css?family=Lobster+Two|Raleway:300|Roboto:300&display=swap");
 /* font-sizes */
+/* colors */
+h1 {
+  font-family: "Lobster Two", cursive;
+  font-size: 3rem;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: "Lobster Two", cursive;
+  font-size: 2rem;
+}
+
+h4 {
+  font-family: "Raleway", sans-serif;
+  font-size: 2rem;
+}
+
+h5 {
+  font-family: "Lobster Two", cursive;
+  font-size: 1.5rem;
+}
+
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5rem;
+}
+
+/*
+* Custom adjustments to bootstrap grid
+*/
+.container,
+.container-fluid,
+.row {
+  margin: 0;
+  padding: 0;
+}
+
+/* Scss specific to this project */
 /*# sourceMappingURL=agreaves-css-lib.css.map */

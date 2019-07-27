@@ -8,8 +8,27 @@
 
 $font-main: 'Roboto', sans-serif;
 $font-secondary: 'Raleway', sans-serif;
-$heading: 'Lobster Two', cursive;
+$heading-main: 'Lobster Two', cursive;
 $heading-secondary: 'Raleway', sans-serif;
 
 /* font-sizes */
 $font-xl: 3rem;
+$font-lg: 2rem;
+$font-md: 1.5rem;
+$font-sm: 1rem;
+$font-xm: 0.75rem;
+
+/* colors */
+$color-main: darkgrey;
+$color-heading: blue;
+$color-highlight: orange;
+$color-bg-light: white;
+$color-bg-dark: grey;
+
+// other brand colors for buttons etc
+$color-a: red;
+$color-a-hover: darkred;
+$color-b: green;
+$color-b-hover: darkgreen;
+$color-c: turquoise;
+$color-c-hover: rgb(15, 124, 113);
